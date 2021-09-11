@@ -457,7 +457,7 @@ rides_clean2 %>%
   xlab("Day of the week")
 ```
 
-![](cyclistic_bikeshare_project_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
+![](unnamed-chunk-15-1.png)<!-- -->
 
 ``` r
 # visualization for average duration
@@ -474,7 +474,7 @@ rides_clean2 %>%
   xlab("Day of the week")
 ```
 
-![](cyclistic_bikeshare_project_files/figure-gfm/unnamed-chunk-15-2.png)<!-- -->
+![](unnamed-chunk-15-2.png)<!-- -->
 
 ``` r
 # # Let's visualize the number of rides by rider type
