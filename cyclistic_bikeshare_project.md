@@ -512,3 +512,5 @@ rides_clean2 %>%
     co-working spaces. The primary message here would be that it is easy
     to grab a bike for a short lunch trip or a quick commute, rather
     than wait for a train or pay for a ride share service.
+    
+    Tableau dashboard: https://public.tableau.com/app/profile/jason.cox3044/viz/ChicagoBikeshareDataGoogleDataAnalyticsCapstone/CyclisticDashboard
